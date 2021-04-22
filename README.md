@@ -8,30 +8,30 @@
 **Era necessário neste exercício proposto criar um input para receber o valor através do usuário.**
 
 
-quadrado_lado = input("Digite o valor do lado de um quadrado:")
+      quadrado_lado = input("Digite o valor do lado de um quadrado:")
 
-lado = int(quadrado_lado)
+      lado = int(quadrado_lado)
 
-perimetro =(lado+lado)
+      perimetro =(lado+lado)
 
-area = (lado*lado)
+      area = (lado*lado)
 
-print("perimetro:",perimetro,"- área:",area)
+      print("perimetro:",perimetro,"- área:",area)
 
 
 # Exercício 2
 
 **Neste exercício foi solicitado a entrada de valores pelo usuário sobre o vencimento e mês de fatura a fim de que possa imprimir elas.**
 
-Nome_Cliente = input("Digite o nome do cliente:")
+      Nome_Cliente = input("Digite o nome do cliente:")
 
-Dia_Vencimento = input("Digite o dia de vencimento:")
+      Dia_Vencimento = input("Digite o dia de vencimento:")
 
-Mes_Vencimento = input("Digite o mês de vencimento:")
+      Mes_Vencimento = input("Digite o mês de vencimento:")
 
-Valor_Fatura = input("Digite o valor da fatura:")
+      Valor_Fatura = input("Digite o valor da fatura:")
 
-print("Olá, ", Nome_Cliente,
+      print("Olá, ", Nome_Cliente,
 
       "\n A sua fatura com vencimento em ",
 
