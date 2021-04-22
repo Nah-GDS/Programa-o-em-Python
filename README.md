@@ -39,24 +39,24 @@ print("Olá, ", Nome_Cliente,
       
   # Exercício 3 
   
-**Na realização deste programa era necessário fazer a entrada das 4 notas e eu utilizei o input para fazer, depois transformá-las em números inteiros e realizar o cálculo com suas variáveis atribuídas a media. 
+**Na realização deste programa era necessário fazer a entrada das 4 notas e eu utilizei o input para fazer, depois transformá-las em números inteiros e realizar o cálculo com suas variáveis atribuídas a media.**
 
-primeira_nota = input("Digite a primeira nota:" )
+      primeira_nota = input("Digite a primeira nota:" )
 
-segunda_nota = input("Digite a segunda nota: ")
+      segunda_nota = input("Digite a segunda nota: ")
 
-terceira_nota = input("Digite a terceira nota: ")
+      terceira_nota = input("Digite a terceira nota: ")
 
-quarta_nota = input("Digite a quarta nota: ")
+      quarta_nota = input("Digite a quarta nota: ")
 
 
-nota1 = int(primeira_nota)
+      nota1 = int(primeira_nota)
 
-nota2 = int(segunda_nota)
+      nota2 = int(segunda_nota)
 
-nota3 = int(terceira_nota)
+      nota3 = int(terceira_nota)
 
-nota4 = int(quarta_nota)
+      nota4 = int(quarta_nota)
 
-media = (nota1 + nota2 + nota3 + nota4)/4
-print("A média aritmética é", media)
+      media = (nota1 + nota2 + nota3 + nota4)/4
+      print("A média aritmética é", media)
